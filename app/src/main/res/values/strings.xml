@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sawit Pro Test App</string>
+    <string name="card_title">%1$s (%2$s)</string>
+</resources>
